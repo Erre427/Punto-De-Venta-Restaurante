@@ -1,0 +1,14 @@
+/home/marcos/Documentos/PuntoDeVenta/bin/Debug/net8.0/PuntoDeVenta
+/home/marcos/Documentos/PuntoDeVenta/bin/Debug/net8.0/PuntoDeVenta.deps.json
+/home/marcos/Documentos/PuntoDeVenta/bin/Debug/net8.0/PuntoDeVenta.runtimeconfig.json
+/home/marcos/Documentos/PuntoDeVenta/bin/Debug/net8.0/PuntoDeVenta.dll
+/home/marcos/Documentos/PuntoDeVenta/bin/Debug/net8.0/PuntoDeVenta.pdb
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/PuntoDeVenta.AssemblyInfoInputs.cache
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/PuntoDeVenta.AssemblyInfo.cs
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/PuntoDeVenta.csproj.CoreCompileInputs.cache
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/PuntoDeVenta.dll
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/refint/PuntoDeVenta.dll
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/PuntoDeVenta.pdb
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/PuntoDeVenta.genruntimeconfig.cache
+/home/marcos/Documentos/PuntoDeVenta/obj/Debug/net8.0/ref/PuntoDeVenta.dll
