@@ -1,6 +1,6 @@
 ﻿namespace PuntoDeVenta;
 
-public class Platillos
+public class Platillos: IDespliega
 {
     // Atributos de la clase
     string[] Nombre;
@@ -39,6 +39,12 @@ public class Platillos
     // Metodo de la clase
     public void Imprime()
     {
-        
+        Console.Clear();
+        Console.WriteLine("Platillo\tPrecio");
+        for(int i = 0; i < 5; i++)
+        {
+            Console.WriteLine("{0}-{1}\t{2:C2}",i+1,Nom[i],Prec[i]);
+        }
+        Console.ReadKey();
     }
 }
